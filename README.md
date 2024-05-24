@@ -5,7 +5,7 @@ Soy un profesional comprometido con la calidad y la excelencia en todo lo que ha
 Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.
 
 
-      ⚡ Free Time: Train, Play games on the PC.
+     ⚡ En mi tiempo libre, disfruto leyendo libros, entrenando, tomando mate y jugando videojuegos.
  <section>
         <h2>Languages and Tools</h2>
         <img src="https://i.postimg.cc/vHx09GK1/icons8-html-96.png" alt="HTML"  display: inline-block;
