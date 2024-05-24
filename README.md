@@ -23,14 +23,9 @@ I really want to progress in this world and I am very excited to continue learni
             margin: 10px;>
        <img src="https://i.postimg.cc/KvFt1tSt/icons8-figma-96.png" alt="React Native"  display: inline-block;
             margin: 10px;>
-       
-       
     </section>
 <h2>Contacto</h2> 
 <img src="https://i.postimg.cc/6QcwCrPp/arrowleft-106662-1.png"></img>
-
-
-  
 <div class="container">
       <h2> Aptitudes </h2>
         <div class="column">
