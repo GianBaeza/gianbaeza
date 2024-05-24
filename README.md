@@ -1,10 +1,9 @@
-<h3 > Hi there! I'm Gian Franco Baeza</h3>
+<h3 > Gian Franco Baeza</h3>
 
----
-✨ I'm a frontend developer with a passion for making the web accessible to everyone. I am studying to become a full stack developer, and to be able to have both frontend and backend development focuses.
+Me entusiasma el aprendizaje y el desarrollo personal. Mi profundo interés por la programación me impulsa constantemente a crecer y explorar nuevas tecnologías. Destaco por mi habilidad para trabajar en equipo, siendo responsable y comprometido en cada proyecto. Creo firmemente que el intercambio de ideas y la cooperación son fundamentales para el éxito, y siempre estoy dispuesto a aportar y aprender de mis colegas.
+Soy un profesional comprometido con la calidad y la excelencia en todo lo que hago. Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.
+Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa donde pueda desarrollarme profesionalmente y contribuir con mis habilidades.
 
-I love sharing my knowledge with others, working in a group and above all I prioritize the good relationship between my colleagues.
-I really want to progress in this world and I am very excited to continue learning and continue studying this profession.
 
       ⚡ Free Time: Train, Play games on the PC.
  <section>
