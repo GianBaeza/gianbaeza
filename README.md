@@ -1,4 +1,4 @@
-<h3 > Gian Franco Baeza</h3>
+
 
 Me entusiasma el aprendizaje y el desarrollo personal. Mi profundo interés por la programación me impulsa constantemente a crecer y explorar nuevas tecnologías. Destaco por mi habilidad para trabajar en equipo, siendo responsable y comprometido en cada proyecto. Creo firmemente que el intercambio de ideas y la cooperación son fundamentales para el éxito, y siempre estoy dispuesto a aportar y aprender de mis colegas.
 Soy un profesional comprometido con la calidad y la excelencia en todo lo que hago. Disfruto trabajando en equipo y tengo habilidades de comunicación efectiva y colaboración.
