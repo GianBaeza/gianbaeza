@@ -25,20 +25,3 @@ Estoy buscando oportunidades para formar parte de un equipo de IT en una empresa
     </section>
 <h2>Contacto</h2> 
 <img src="https://i.postimg.cc/6QcwCrPp/arrowleft-106662-1.png"></img>
-<div class="container">
-      <h2> Aptitudes </h2>
-        <div class="column">
-            <ul>
-                <li>😊 I am currently looking for work.</li>
-                <li>📚 I am currently learning...</li>
-                <li>🤝 I'm looking to collaborate on projects.</li>
-                <li>👍 Good presence</li>
-                <li>🏢 Good development in work groups.</li>
-                <li>📖 Willing to learn</li>
-                <li>💼 Compromise and responsibility</li>
-                <li>⏰ Punctuality</li>
-                <li>🔄 Ease of adaptation</li>
-                <li>⏱️ FULL TIME</li>
-            </ul>
-        </div>
-    </div>
