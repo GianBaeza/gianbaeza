@@ -8,7 +8,6 @@ Soy un desarrollador web con experiencia en HTML, CSS, JavaScript y React.js. Me
 - React.js, Bootstrap
 - Git, GitHub
 - Figma
-## 📝 Últimos Proyectos
 
 ## 📊 Estadísticas de GitHub
 
