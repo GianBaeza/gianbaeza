@@ -19,7 +19,7 @@ Soy un desarrollador web con experiencia en HTML, CSS, JavaScript y React.js. Me
 ## 📫 Contáctame
 
 - Email: [gianb04@gmail.com](mailto:gianb04@gmail.com)
-- LinkedIn: [tu_linkedin](https://www.linkedin.com/in/gianbaeza/)
+- LinkedIn: [gianbaeza ](https://www.linkedin.com/in/gianbaeza/)
 
 ## 💡 Intereses
 
