@@ -11,8 +11,6 @@ Soy un desarrollador web con experiencia en HTML, CSS, JavaScript y React.js. Me
 
 ## 📊 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GianBaeza&show_icons=true&theme=radical)
-
 ![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=GianBaeza&theme=radical)
 
 ## 📫 Contáctame
