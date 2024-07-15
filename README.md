@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Gian Franco Baeza]
+# 👋 Hola, soy Gian Franco Baeza
 
 Soy un desarrollador web con experiencia en HTML, CSS, JavaScript y React.js. Me apasiona el aprendizaje continuo y el desarrollo personal en el ámbito de la programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
