@@ -34,4 +34,3 @@ Soy un desarrollador web con experiencia en HTML, CSS, JavaScript y React.js. Me
 
 
 
-⭐️ From [tu_usuario](https://github.com/GianBaeza)
