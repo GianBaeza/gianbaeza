@@ -1,5 +1,6 @@
 ## 🌟 Acerca de mí
-Mi interés en el aprendizaje y el desarrollo personal me impulsa a explorar nuevas tecnologías y a seguir creciendo en el ámbito de la programación. Me destaco en el trabajo en equipo, siendo siempre responsable y comprometido en cada proyecto. Creo firmemente que el intercambio de ideas y la colaboración son fundamentales para el éxito. Estoy siempre dispuesto a aportar y aprender de mis compañeros.
+Mi pasión por el aprendizaje y el desarrollo personal me impulsa a explorar nuevas tecnologías y a seguir creciendo como programador. Me destaco en el trabajo en equipo, siendo responsable y comprometido en cada proyecto. Valoro el intercambio de ideas y la colaboración, y siempre estoy dispuesto a aprender y contribuir. Estoy dedicado al aprendizaje continuo y a la adaptación a nuevas tecnologías en el desarrollo web, y creo firmemente que la colaboración y el intercambio de conocimientos son esenciales para el crecimiento profesional.
+
 
 <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
 
@@ -9,10 +10,6 @@ Me dedico a crear interfaces de usuario dinámicas y responsivas utilizando las 
 ## 🛠️ Herramientas y Tecnologías
 **Conocimientos en bibliotecas de React y herramientas de estilización**  
 Tengo experiencia trabajando con diversas bibliotecas de React como Material-UI y React Bootstrap. También he trabajado con Tailwind CSS y Sass para crear estilos personalizados y optimizados, logrando interfaces modernas y coherentes.
-
-## 📚Mi Compromiso
-**Aprendizaje Continuo y Colaboración Activa**  
-Estoy comprometido con el aprendizaje constante y la adaptación a nuevas tecnologías en el desarrollo web. Creo que el intercambio de conocimientos y la colaboración con otros profesionales son esenciales para crecer en el campo. Siempre busco nuevas oportunidades para compartir mis experiencias y aprender de las perspectivas de mis compañeros en la comunidad de desarrollo.
 
 
 ## 🔧 Habilidades
