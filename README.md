@@ -10,9 +10,10 @@ Me dedico a crear interfaces de usuario dinámicas y responsivas utilizando las 
 **Conocimientos en bibliotecas de React y herramientas de estilización**  
 Tengo experiencia trabajando con diversas bibliotecas de React como Material-UI y React Bootstrap. También he trabajado con Tailwind CSS y Sass para crear estilos personalizados y optimizados, logrando interfaces modernas y coherentes.
 
-## 📚 Mi Enfoque
-**Siempre aprendiendo y compartiendo conocimientos**  
-Soy un firme creyente en la importancia de mantenerse actualizado con las últimas tendencias y tecnologías en desarrollo web. Participo activamente en la comunidad, compartiendo mis conocimientos y experiencias con otros desarrolladores.
+## 📚Mi Compromiso
+**Aprendizaje Continuo y Colaboración Activa**  
+Estoy comprometido con el aprendizaje constante y la adaptación a nuevas tecnologías en el desarrollo web. Creo que el intercambio de conocimientos y la colaboración con otros profesionales son esenciales para crecer en el campo. Siempre busco nuevas oportunidades para compartir mis experiencias y aprender de las perspectivas de mis compañeros en la comunidad de desarrollo.
+
 
 ## 🔧 Habilidades
 - **Comunicación Efectiva:** Capacidad para dirigirme a las personas de manera clara y precisa, adaptando mi mensaje según la audiencia.
