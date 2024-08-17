@@ -1,6 +1,5 @@
 <h1>¡Hola, soy Gian!</h1>
 
-Estadísticas  
 <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
 
 ## 🌟 Acerca de mí
