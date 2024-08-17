@@ -1,9 +1,7 @@
-<h1>¡Hola, soy Gian!</h1>
-
-<img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
-
 ## 🌟 Acerca de mí
 Mi interés en el aprendizaje y el desarrollo personal me impulsa a explorar nuevas tecnologías y a seguir creciendo en el ámbito de la programación. Me destaco en el trabajo en equipo, siendo siempre responsable y comprometido en cada proyecto. Creo firmemente que el intercambio de ideas y la colaboración son fundamentales para el éxito. Estoy siempre dispuesto a aportar y aprender de mis compañeros.
+
+<img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
 
 ## 💼 Mi Rol
 **Desarrollador Frontend con enfoque en React.js y JavaScript**  
