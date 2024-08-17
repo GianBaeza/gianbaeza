@@ -3,8 +3,7 @@ Mi interés en el aprendizaje y el desarrollo personal me impulsa a explorar nue
 
 <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
 
-## 💼 Mi Rol
-**Desarrollador Frontend con enfoque en React.js y JavaScript**  
+## 💼 Desarrollador Frontend con enfoque en React.js y JavaScript
 Me dedico a crear interfaces de usuario dinámicas y responsivas utilizando las últimas tecnologías web. Con una fuerte pasión por el desarrollo frontend, me especializo en construir experiencias interactivas que son tanto funcionales como visualmente atractivas. Además, tengo conocimientos en Figma, lo que me permite diseñar y prototipar interfaces de usuario con un enfoque centrado en la experiencia del usuario.
 
 ## 🛠️ Herramientas y Tecnologías
