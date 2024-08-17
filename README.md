@@ -25,7 +25,3 @@ Soy un firme creyente en la importancia de mantenerse actualizado con las últim
 - **Perseverancia:** Compromiso y determinación para superar obstáculos y alcanzar los objetivos, incluso en situaciones difíciles.
 - **Adaptabilidad:** Habilidad para aprender rápidamente y adaptarme a nuevos desafíos y entornos, manteniendo siempre una actitud positiva.
 - **Resolución de Problemas:** Capacidad para analizar situaciones complejas y encontrar soluciones efectivas, equilibrando las necesidades de todas las partes involucradas.
-
-<hr>
-
-## 📧 Conéctate conmigo / Encuéntrame en:
