@@ -1,5 +1,3 @@
-## 🌟 Acerca de mí
-Soy una persona que disfruta aprendiendo sobre nuevas tecnologías y buscando maneras de mejorar como programador. Me enfoco en trabajar bien en equipo, siendo responsable y comprometido con los proyectos en los que participo. Valoro el intercambio de ideas y la colaboración, y siempre estoy abierto a aprender de los demás y a aportar mis propias experiencias. Estoy comprometido con el aprendizaje continuo y la adaptación a nuevas tecnologías en el desarrollo web, y creo que colaborar y compartir conocimientos es clave para el crecimiento profesional.
 
 
 <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Estadísticas de GitHub">
