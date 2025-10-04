@@ -50,14 +50,3 @@ Objetivo: integrar backend propio (autenticación, persistencia, optimización d
 - Accesibilidad (Lighthouse a11y): [A1] → [A2]  
 
 </details>
-
----
-
-### 🗣 Estilo de Trabajo
-Claridad > complejidad · medir antes de optimizar · feedback como herramienta · iteraciones cortas · aprendizaje aplicado diario.
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuciones" />
-</div>
