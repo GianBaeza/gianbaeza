@@ -22,13 +22,14 @@ Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Con
 ### 🛠 Stack Principal
 <!-- Badges (opcional, comentar si no quieres) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Figma-1C1E26?logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" height="22" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?logo=tailwindcss&logoColor=38BDF8" height="22" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/Figma-1C1E26?logo=figma&logoColor=F24E1E" height="22" style="margin: 0 4px;" />
 </p>
+
 
 ---
 
