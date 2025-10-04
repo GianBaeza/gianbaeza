@@ -4,7 +4,6 @@
 
 </div>
 
-### 👋 Hola, soy Gian
 Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Construyo interfaces rápidas, accesibles y mantenibles: componentes reutilizables, optimización de carga (code splitting, imágenes, Core Web Vitals) y una traducción consistente de diseño (Figma) a código. Autodidacta (46+ repos), abierto a nuevos conocimientos y receptivo a feedback. Expandiéndome hacia backend (Python + FastAPI + SQL) para aportar visión full stack.
 
 ---
