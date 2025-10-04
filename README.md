@@ -15,19 +15,17 @@ Desarrollador Frontend con foco en React, Next.js (App Router) y TypeScript. Con
 - Aprendizaje activo: adopto nuevas features cuando resuelven un problema real; mido impacto antes de integrarlas definitivamente.
 
 ---
-
-### 🧭 En Progreso (Expansión Full Stack)
-SQL (modelado y consultas eficientes) · Python · FastAPI (APIs REST limpias, validación, patrones)
-
-Objetivo: integrar backend propio (autenticación, persistencia, optimización de datos) para cerrar el ciclo front ↔ API ↔ base de datos.
-
----
-
 ### 🛠 Stack Principal
 React · Next.js (App Router) · TypeScript · JavaScript  
 Tailwind CSS · Sass · CSS Modules · Material UI · React Bootstrap  
 Figma (diseño → tokens → componentes)  
 Herramientas: ESLint · Prettier · (añade Jest / RTL / Playwright cuando lo uses)  
+---
+
+### 🧭 En Progreso (Expansión Full Stack)
+SQL (modelado y consultas eficientes) · Python · FastAPI (APIs REST limpias, validación, patrones)
+
+Objetivo: integrar backend propio (autenticación, persistencia, optimización de datos) para cerrar el ciclo front ↔ API ↔ base de datos.
 
 ---
 
