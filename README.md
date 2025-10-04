@@ -1,8 +1,4 @@
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3400&pause=800&color=EB3A24&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Gian;Frontend+Developer+React+%2F+Next.js;Performance+%7C+Accesibilidad+%7C+Escalabilidad;Aprendizaje+continuo+y+feedback+abierto)](https://github.com/GianBaeza)
-
-</div>
 
 Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Construyo interfaces rápidas, accesibles y mantenibles: componentes reutilizables, optimización de carga (code splitting, imágenes, Core Web Vitals) y una traducción consistente de diseño (Figma) a código. Autodidacta (46+ repos), abierto a nuevos conocimientos y receptivo a feedback. Expandiéndome hacia backend (Python + FastAPI + SQL) para aportar visión full stack.
 
@@ -21,7 +17,7 @@ Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Con
 
 ### 🛠 Stack Principal
 <!-- Badges (opcional, comentar si no quieres) -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" height="22" style="margin: 0 4px;" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
@@ -29,7 +25,6 @@ Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Con
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=FFFFFF" height="22" style="margin: 0 4px;" />
   <img src="https://img.shields.io/badge/Figma-1C1E26?logo=figma&logoColor=F24E1E" height="22" style="margin: 0 4px;" />
 </p>
-
 
 ---
 
