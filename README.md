@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3400&pause=800&color=EB3A24&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Gian;Frontend+Developer+React+%2F+Next.js;Performance+%7C+Accesibilidad+%7C+Escalabilidad;Aprendizaje+continuo+y+feedback+abierto)](https://github.com/GianBaeza)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3400&pause=800&color=B54E2D&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Gian;Frontend+Developer+React+%2F+Next.js;Performance+%7C+Accesibilidad+%7C+Escalabilidad;Aprendizaje+continuo+y+feedback+abierto)](https://github.com/GianBaeza)
 
 Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Construyo interfaces rápidas, accesibles y mantenibles: componentes reutilizables, optimización de carga (code splitting, imágenes, Core Web Vitals) y una traducción consistente de diseño (Figma) a código. Autodidacta (46+ repos), abierto a nuevos conocimientos y receptivo a feedback. Expandiéndome hacia backend (Python + FastAPI + SQL) para aportar visión full stack.
 
