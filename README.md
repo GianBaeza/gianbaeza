@@ -32,16 +32,3 @@ Desarrollador Frontend enfocado en React, Next.js (App Router) y TypeScript. Con
 SQL · Python · FastAPI  
 Objetivo: integrar backend propio (autenticación, persistencia, optimización de datos) para cerrar el ciclo front ↔ API ↔ base de datos.
 
----
-
-### 📌 Métricas (Opcional)
-<details>
-<summary>Mostrar / ocultar métricas (placeholder)</summary>
-
-- Reducción de tiempo de carga inicial (Proyecto X): [A] → [B] s  
-- Lighthouse Performance: [P1] → [P2]  
-- Disminución bundle inicial: [X]% → [Y]%  
-- Componentes reutilizables documentados: [N]  
-- Accesibilidad (Lighthouse a11y): [A1] → [A2]  
-
-</details>
